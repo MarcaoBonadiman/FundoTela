@@ -1,4 +1,5 @@
-# FundoTela
+# FundoTela - C# (Sharp) Visual Studio 2022 - .NET 6.0
+
 App para Windows - Visualiza as fotos de abertura que o Windows apresenta na tela de Login. Permite transforma-la em fundo de tela da área de trabalho (Wallpaper)
 
 A partir do Windows 10, ao fazer o Login, uma foto é exibida, essa foto fica guardada em uma pasta e esse aplicativo permite ver essas fotos e copia-las ou torna-las como fundo de tela da área de trabalho. 
